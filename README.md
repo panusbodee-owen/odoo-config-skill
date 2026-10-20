@@ -1,5 +1,7 @@
 # odoo-config — Claude Skill for Odoo Functional Configuration (all versions)
 
+![Demo: real script runs and the generated output](docs/demo.gif)
+
 Turns configuration into a signed decision log and checks the live database against it.
 
 | Task | How |
